@@ -314,9 +314,9 @@ SELECT animal_name, commands, date_of_birth, age_animal(date_of_birth), 'young_a
 FROM young_animal;
 ```
 
-### 13-15 Программа в файле Main.java
+### 13-15 Программа в папке program -  Main.java 
 
+Скриншот работы программы из VS code:
 
-
-
+![screenshot](images/task_14.PNG)
 
